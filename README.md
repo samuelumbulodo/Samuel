@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, Saya Sam</h1>
-<h3 align="center">Seorang pengembang frontend yang bersemangat dari India</h3>
+<h3 align="center">Seorang pengembang frontend yang bersemangat dari Indonesia</h3>
 
 - ⚡ Fakta menarik **Saya pikir saya lucu**
 
